@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-""" Minimum"""
-
+""" Minimum Operations"""
 
 def minOperations(n):
     """ Minimum Operations"""
@@ -15,3 +14,4 @@ def minOperations(n):
         else:
             i += 1
     return result
+
